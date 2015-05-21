@@ -1,0 +1,7 @@
+C:\Users\Comandante\Desktop\Nuovo Archivio WinRAR\Debug\SOURCE\TerminalUdpServer\bin\Debug\UdpServer.exe
+C:\Users\Comandante\Desktop\Nuovo Archivio WinRAR\Debug\SOURCE\TerminalUdpServer\bin\Debug\UdpServer.pdb
+C:\Users\Comandante\Desktop\Nuovo Archivio WinRAR\Debug\SOURCE\TerminalUdpServer\obj\Debug\TerminalUdpServer.csprojResolveAssemblyReference.cache
+C:\Users\Comandante\Desktop\Nuovo Archivio WinRAR\Debug\SOURCE\TerminalUdpServer\obj\Debug\UdpServer.Properties.Resources.resources
+C:\Users\Comandante\Desktop\Nuovo Archivio WinRAR\Debug\SOURCE\TerminalUdpServer\obj\Debug\TerminalUdpServer.csproj.GenerateResource.Cache
+C:\Users\Comandante\Desktop\Nuovo Archivio WinRAR\Debug\SOURCE\TerminalUdpServer\obj\Debug\UdpServer.exe
+C:\Users\Comandante\Desktop\Nuovo Archivio WinRAR\Debug\SOURCE\TerminalUdpServer\obj\Debug\UdpServer.pdb
